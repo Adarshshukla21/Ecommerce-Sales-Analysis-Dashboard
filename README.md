@@ -1,4 +1,4 @@
-🛒 E-Commerce Sales Analysis Project
+🛒 E-Commerce Sales Profitability Analysis
 
 📌 Project Overview
 
